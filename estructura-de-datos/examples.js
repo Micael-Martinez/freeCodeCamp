@@ -1,0 +1,1 @@
+let numero = Math.floor(Math.random() * 20) //? Retorna del 0 al 19
